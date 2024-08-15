@@ -1,1 +1,1 @@
-<p>Mi gato es <strong>muy</strong> gruñon.</p>
+<p>Prueba <strong>del HTML</strong> en GitHub.</p>
